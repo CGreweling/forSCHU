@@ -13,5 +13,14 @@ docker run --rm \
       -v /home/youruser/influxdbfodler:/var/lib/influxdb \
       influxdb /init-influxdb.sh
 
+#### Start Influx DB as permanent Service
+docker run -d --restart always -p 8086:8086 -v /home/youruser/influxdbfodle:/var/lib/influxdb influxdb
+
+
+
+
+## Start grafana (do not rember here how i set it up 1year ago ;))
+docker run --restart always -d --name=grafana -p 3000:3000 grafana/grafana
+
 ### Set according IP of InfluxDB-docker in Grafana
   docker network inspect bridge | grep elastic -A 5
