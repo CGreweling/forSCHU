@@ -19,7 +19,7 @@ docker run -d --restart always -p 8086:8086 -v /home/youruser/influxdbfodle:/var
 
 
 
-## Start grafana (do not rember here how i set it up 1year ago ;))
+## Start grafana as permanent Service (do not remeber how i set it up 1year ago ;))
 docker run --restart always -d --name=grafana -p 3000:3000 grafana/grafana
 
 ### Set according IP of InfluxDB-docker in Grafana
