@@ -2,6 +2,31 @@
 
 
 ## Welcome to GitHub Pages
+PIN | PIN | RASPI | sensor-kable
+----|-----|-------|-------------
+1 |2  | +5v      | red 
+3 |4
+5 |6
+7 |8  | GPIO 14  | blue
+9 |10 | GPIO 15 | green
+11 |12
+13 | 14
+15 | 16
+17 | 18 | GPIO 24  | yellow
+19 | 20
+21 | 22
+23 | 24
+25 | 26
+27 | 28
+29 | 30 | GND |black
+31 | 32
+33 | 34
+35 | 36
+37 | 38
+39 | 40
+
+
+
 
 You can use the [editor on GitHub](https://github.com/CGreweling/forSCHU/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
