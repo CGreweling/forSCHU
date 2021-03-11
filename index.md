@@ -2,21 +2,21 @@
 
 
 ## Welcome to GitHub Pages
-PIN | PIN | RASPI | sensor-kable
-----|-----|-------|-------------
-1 |2  | +5v      | red 
-3 |4
+display|PIN | PIN | RASPI | sensor-kable|display
+----|----|-----|-------|-------------|------
+|1 |2  | +5v      | red | power 5v
+3 |4   |          |     | power 5v
 5 |6
 7 |8  | GPIO 14  | blue
-9 |10 | GPIO 15 | green
+power ground|9 |10 | GPIO 15 | green
 11 |12
-13 | 14
+13 | 14|        |     | Power ground
 15 | 16
 17 | 18 | GPIO 24  | yellow
-19 | 20
-21 | 22
-23 | 24
-25 | 26
+TP SPI (MOSI)|19 | 20 |       |     | power ground
+TP SPI (MISO)|21 | 22|        |     | TP interrupt
+TP SPI (SCLK)|23 | 24|        |     | 
+power ground|25 | 26 |       |     | TP chip select
 27 | 28
 29 | 30 | GND |black
 31 | 32
