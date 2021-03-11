@@ -1,3 +1,6 @@
+![Bildschirmfoto vom 2021-02-25 16-10-57](https://user-images.githubusercontent.com/3499600/110813915-3e29f680-8289-11eb-83f7-f701e3ab167c.png)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/CGreweling/forSCHU/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
