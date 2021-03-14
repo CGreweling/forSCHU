@@ -24,7 +24,7 @@ DHT22|display|RASPI|PIN | PIN | RASPI | sensor-kable|display
 |    |       |    |35 | 36| | |
 |    |       |    |37 | 38| | |
 |    |       |    |39 | 40| | |
-
+USB ANSCHLÜSSE HIER UNTEN
 
 
 
