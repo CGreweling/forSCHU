@@ -8,7 +8,7 @@ DHT22|display|RASPI|PIN | PIN | RASPI | sensor-kable|display
 |    |      |     |3    |4    |       |             | power 5v
 |    |      |      |5    |6    |GROUND |             |
 |PIN2|      |     |7    |8  | GPIO 14   | blue       |
-|PIN4|power ground|9    |10 | GPIO 15 | green |
+|PIN4|power gND|  |9    |10 | GPIO 15 | green |
 |    |      |     |11   |12|    |      |
 |    |      |     |13   | 14|        |     | Power ground
 |    |      |     |15   | 16| | |
@@ -16,7 +16,7 @@ DHT22|display|RASPI|PIN | PIN | RASPI | sensor-kable|display
 |    |TP SPI (MOSI)|19  | 20 |       |                | power ground
 |    |TP SPI (MISO)|21 | 22|        |     | TP interrupt
 |    |TP SPI (SCLK)|23 | 24|        |     | 
-|    |power ground|25 | 26 |       |     | TP chip select
+|    |power gND|  |25 | 26 |       |     | TP chip select
 |    |       |    |27 | 28| | |
 |    |       |    |29 | 30 | GND |black|
 |    |       |    |31 | 32| | |
