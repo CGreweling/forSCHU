@@ -7,8 +7,8 @@ DHT22|display|RASPI|PIN | PIN | RASPI | MHZ-14A KABLE|display
 |Pin1|      |+3,3v|1    |2    | +5v   | red         | power 5v
 |    |      |     |3    |4    |       |             | power 5v
 |    |      |     |5    |6    |GROUND |             |
-|PIN2|      |     |7    |8    | GPIO 14| blue       |
-|PIN4|power ground|  |9 |10   | GPIO 15 | green     |
+|    |      |     |7    |8    | GPIO 14| blue       |
+|    |power ground|  |9 |10   | GPIO 15 | green     |
 |    |      |     |11   |12   |       |             |
 |    |      |     |13   | 14|         |             | Power ground
 |    |      |     |15   | 16  |       |             |
@@ -20,10 +20,10 @@ DHT22|display|RASPI|PIN | PIN | RASPI | MHZ-14A KABLE|display
 |    |       |    |27 | 28| | |
 |    |       |    |29 | 30 | GND |black|
 |    |       |    |31 | 32| | |
-|    |       |    |33 | 34| | |
+|PIN2|       |GPIO13|33 | 34| | |
 |    |       |    |35 | 36| | |
 |    |       |    |37 | 38| | |
-|    |       |    |39 | 40| | |
+|PIN4|       | GND |39 | 40| | |
 USB ANSCHLÜSSE HIER UNTEN
 
 
