@@ -27,6 +27,12 @@ DHT22|display|RASPI|PIN | PIN | RASPI | MHZ-14A KABLE|display
 USB ANSCHLÜSSE HIER UNTEN
 
 
+#### DHT 22
+
+https://tutorials-raspberrypi.de/raspberry-pi-luftfeuchtigkeit-temperatur-messen-dht11-dht22/
+
+- sudo pip3 install adafruit-circuitpython-dht
+- sudo apt-get install libgpiod2
 
 You can use the [editor on GitHub](https://github.com/CGreweling/forSCHU/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
